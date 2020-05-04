@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/cermati-test/static/css/main.2194e59e.chunk.css",
-    "main.js": "/cermati-test/static/js/main.488c5edf.chunk.js",
-    "main.js.map": "/cermati-test/static/js/main.488c5edf.chunk.js.map",
-    "runtime~main.js": "/cermati-test/static/js/runtime~main.63ea583f.js",
-    "runtime~main.js.map": "/cermati-test/static/js/runtime~main.63ea583f.js.map",
-    "static/css/2.a317ec87.chunk.css": "/cermati-test/static/css/2.a317ec87.chunk.css",
-    "static/js/2.a6c58ade.chunk.js": "/cermati-test/static/js/2.a6c58ade.chunk.js",
-    "static/js/2.a6c58ade.chunk.js.map": "/cermati-test/static/js/2.a6c58ade.chunk.js.map",
-    "index.html": "/cermati-test/index.html",
-    "precache-manifest.2beb6bdf157b49b89c27955bf7489ffc.js": "/cermati-test/precache-manifest.2beb6bdf157b49b89c27955bf7489ffc.js",
-    "service-worker.js": "/cermati-test/service-worker.js",
-    "static/css/2.a317ec87.chunk.css.map": "/cermati-test/static/css/2.a317ec87.chunk.css.map",
-    "static/css/main.2194e59e.chunk.css.map": "/cermati-test/static/css/main.2194e59e.chunk.css.map",
-    "static/media/App.css": "/cermati-test/static/media/work-desk__dustin-lee.a5a74b4f.jpg"
+    "main.css": "/cermati/static/css/main.4e44d4b0.chunk.css",
+    "main.js": "/cermati/static/js/main.26205686.chunk.js",
+    "main.js.map": "/cermati/static/js/main.26205686.chunk.js.map",
+    "runtime~main.js": "/cermati/static/js/runtime~main.5fe27fe7.js",
+    "runtime~main.js.map": "/cermati/static/js/runtime~main.5fe27fe7.js.map",
+    "static/css/2.a317ec87.chunk.css": "/cermati/static/css/2.a317ec87.chunk.css",
+    "static/js/2.91ffd7f5.chunk.js": "/cermati/static/js/2.91ffd7f5.chunk.js",
+    "static/js/2.91ffd7f5.chunk.js.map": "/cermati/static/js/2.91ffd7f5.chunk.js.map",
+    "index.html": "/cermati/index.html",
+    "precache-manifest.195a043215336ad58fad606739a04611.js": "/cermati/precache-manifest.195a043215336ad58fad606739a04611.js",
+    "service-worker.js": "/cermati/service-worker.js",
+    "static/css/2.a317ec87.chunk.css.map": "/cermati/static/css/2.a317ec87.chunk.css.map",
+    "static/css/main.4e44d4b0.chunk.css.map": "/cermati/static/css/main.4e44d4b0.chunk.css.map",
+    "static/media/App.css": "/cermati/static/media/work-desk__dustin-lee.a5a74b4f.jpg"
   }
 }
